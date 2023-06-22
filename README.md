@@ -1,5 +1,6 @@
 # Pattern_recognition
 这是一个简单的模式识别作业
+
 1.特征提取后的数据集
 trainDistance	训练集
 testDistance	测试集
